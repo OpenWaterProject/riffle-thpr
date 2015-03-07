@@ -149,7 +149,7 @@
 <text x="34.9" y="1.8" size="0.6096" layer="22" rot="MR90">D3</text>
 <text x="37.4" y="1.8" size="0.6096" layer="22" rot="MR90">A0</text>
 <text x="53.1" y="7.4" size="0.6096" layer="21" rot="R270">RX</text>
-<text x="53.2" y="3.8" size="0.6096" layer="21" rot="R270">TX</text>
+<text x="53.1" y="3.8" size="0.6096" layer="21" rot="R270">TX</text>
 <text x="39.9" y="1.4" size="0.6096" layer="22" rot="MR90">VBAT</text>
 <text x="53.7" y="13.4" size="0.6096" layer="21" rot="R90">3V3</text>
 <text x="53.7" y="9.8" size="0.6096" layer="21" rot="R90">GND</text>
